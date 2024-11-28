@@ -21,7 +21,7 @@ The **Bank Management System** is a Java application designed to manage customer
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/bank-management-system.git
+   git clone https://github.com/Evernightwarrior/bank-management-system.git
 2. Open the project in IntelliJ IDEA.
 3. Run the `Main.java` file to start the application.
 
