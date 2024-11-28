@@ -1,5 +1,3 @@
-# Bank-management-system
-Title: Bank Management System  Description: A Java-based Bank Management System that efficiently manages customers, accounts, and transactions. This project incorporates advanced data structures to optimize performance and scalability.
 # Bank Management System
 
 ## Overview
@@ -24,4 +22,14 @@ The **Bank Management System** is a Java application designed to manage customer
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/bank-management-system.git
+2. Open the project in IntelliJ IDEA.
+3. Run the `Main.java` file to start the application.
+
+## Future Enhancements
+- Add graph-based structures for branch-to-customer relationships.
+- Implement database integration (SQL/NoSQL) for persistent storage.
+- Add multi-threading support for concurrent operations.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
 
